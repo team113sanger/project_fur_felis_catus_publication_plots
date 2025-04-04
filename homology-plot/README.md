@@ -1,0 +1,110 @@
+# fur2cosmic
+
+The purpose of this Python package is for demonstration & cloning purposes.
+
+|                         Main                         |                         Develop                          |
+| :----------------------------------------------------: | :------------------------------------------------------: |
+| [![pipeline status][main-pipe-badge]][main-branch] | [![pipeline status][develop-pipe-badge]][develop-branch] |
+
+[main-pipe-badge]: https://gitlab.internal.sanger.ac.uk/DERMATLAS/fur/fur_to_cosmic/badges/main/pipeline.svg
+[main-branch]: https://gitlab.internal.sanger.ac.uk/DERMATLAS/fur/fur_to_cosmic/-/commits/main
+[develop-pipe-badge]: https://gitlab.internal.sanger.ac.uk/DERMATLAS/fur/fur_to_cosmic/badges/develop/pipeline.svg
+[develop-branch]: https://gitlab.internal.sanger.ac.uk/DERMATLAS/fur/fur_to_cosmic/-/commits/develop
+
+
+## Table of Contents
+- [Usage](#usage)
+  - [Plots](#)
+  - [Command Line Interface](#command-line-interface)
+- [Installation](#installation)
+- [Directory Structure](#directory-structure)
+
+
+## Usage
+
+`fur2cosmic` is program with a CLI that can map feline mutations to the
+equivalent homologous position in humans and compare the humanized feline
+mutations with the [COSMIC Cancer Mutation Census (CMC)](https://cancer.sanger.ac.uk/cmc/home). The 
+program produces a `tsv` data file and option `pdf` & `png` plots, like the one 
+
+To use the program you will need to **download CMC** from the COSMIC website.
+
+**MAF files** expect a certain file structure and column composition, for examples please look at:
+  - [`tests/example_data/example.CATD252a.maf`](tests/example_data/example.CATD252a.maf)
+  - `tests/example_data/example_1.maf.gz` (a larger, compressed example)
+
+For an example of **how to run** `fur2cosmic` see `tests/integration/test_cli.py`.
+
+### Plots
+
+An example of humanized feline mutations plotted by `fur2cosmic` for *TP53*.
+
+![An example of a plot rendered by fur2cosmic](tests/example_data/example.TP53.fur2cosmic.png){width=400}
+
+### Command Line Interface
+
+```
+usage: fur2cosmic [-h] [-o OUTPUT_DIR] [--dpi DPI] [--skip-plots] [--use-json] [--version] GENE-SYMBOL CMC-FILE MAF-FILE [MAF-FILE ...]
+
+Map feline mutations to human and compare with COSMIC data.
+
+positional arguments:
+  GENE-SYMBOL           HUFO gene symbol to analyze, e.g., TP53
+  CMC-FILE              Path to a COSMIC Cancer Mutation Census (CMC) data file
+  MAF-FILE              One or more MAF files containing feline mutations, e.g., study1.maf study2.maf
+
+options:
+  -h, --help            show this help message and exit
+  -o OUTPUT_DIR, --output-dir OUTPUT_DIR
+                        Directory to save the output files (default: current directory)
+  --dpi DPI             DPI for saving plots (default: 600)
+  --skip-plots          Skip generating comparison plots
+  --use-json            Use packaged JSON data for pre-calculated nucleotide alignments not present in Ensembl API
+  --version             Show the version of the package
+  ```
+
+## Installation
+
+`fur2cosmic` is a Python package and can be installed using `pip` or with the
+[`poetry`](https://python-poetry.org/docs/). It was written against Python3.10
+but should work on newer Python versions as well.
+
+```bash
+python -m venv venv  # Assumes 3.10
+source venv/bin/activate
+pip install .  # Install from pyproject.toml
+```
+
+Or with `poetry`
+```bash
+python -m venv venv  # Assumes 3.10
+source venv/bin/activate
+poetry install  # Install from pyproject.toml, including all development dependencies
+```
+
+## Directory structure
+
+```
+.
+├── .devcontainer
+│   └── devcontainer.json    # Used by VSCode to create a development container
+├── cicd_scripts/
+│   ├── build_package_and_publish.sh       # Publishes the package to the Gitlab PyPi registry
+│   └── format_test.sh       # CI/CD script to run formatting and linting
+├── .dockerignore
+├── .gitignore
+├── .gitlab-ci.yml           # Gitlab CI/CD config file
+├── .pre-commit-config.yaml  # Pre-commit config file
+├── Dockerfile
+├── README.md
+├── docker-compose.yml
+├── pyproject.toml           # Python package config file (dependencies add here)
+├── poetry.lock              # Poetry dependency lock file (generated)
+├── poetry.toml              # Poetry config file
+├── requirements.txt         # Alternative package dependency file (generated)
+├── src
+│   └── fur2cosmic  # The python package of this repo (src code)
+└── tests
+    ├── integration          # Integration tests go here
+    └── unit                 # Unit tests go here
+```
