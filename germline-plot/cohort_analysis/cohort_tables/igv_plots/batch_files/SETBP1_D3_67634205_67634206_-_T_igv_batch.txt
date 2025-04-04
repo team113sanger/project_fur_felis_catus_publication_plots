@@ -1,0 +1,11 @@
+new
+ genome /lustre/scratch127/casm/team113da/projects/fur_germline/resources/IGV/Felis_catus.Felis_catus_9.0.dna.toplevel.fa
+ load /lustre/scratch127/casm/team113da/projects/fur_germline/resources/IGV/Felis_catus.Felis_catus_9.0.104.sorted.gtf.gz
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2965/CATD200b/CATD200b.sample.dupmarked.bam
+snapshotDirectory /lustre/scratch127/casm/team113da/projects/fur_germline/cohort_analysis/cohort_tables/igv_plots/screenshots
+ goto D3:67634182-67634229
+ sort base
+ collapse
+ colorBy FIRST_OF_PAIR_STRAND
+ snapshot SETBP1_D3_67634205_67634206_-_T.png
+exit

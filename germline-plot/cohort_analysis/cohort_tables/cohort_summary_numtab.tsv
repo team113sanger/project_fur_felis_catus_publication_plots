@@ -1,0 +1,14 @@
+Tumour_type	Study	All_genes_lof_nmut	All_genes_lofwmiss_nmut	NHS_genes_lof_nmut	NHS_genes_lofwmiss_nmut
+Basal cell carcinoma	7040_3064	93	1195	23	117
+Cholangiocarcinoma	6945_3142	96	975	21	139
+Colorectal carcinoma	7097_3073	65	1047	17	121
+Cutaneous mast cell tumour	6713_2821	59	1163	10	145
+Cutaneous squamous cell carcinoma (digit and non-digit)	6711_2820	130	1929	14	206
+Glioma	7098_3140	37	301	6	40
+Lung adenocarcinoma	6555_2711	138	1767	16	221
+Lymphoma (T- and B-cell; GI and lymphoid)	6982_3135	213	1951	40	229
+Mammary gland carcinoma (ER+ and ER-)*	6990_3065	165	1379	15	156
+Meningioma	6841_2964	77	866	7	82
+Oral squamous cell carcinoma	6712_2822	109	1376	20	160
+Osteosarcoma	6973_2987	90	789	15	111
+Pancreatic carcinoma	6864_2965	78	955	22	109

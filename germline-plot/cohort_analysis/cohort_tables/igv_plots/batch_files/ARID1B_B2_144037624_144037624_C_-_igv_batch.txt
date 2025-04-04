@@ -1,0 +1,14 @@
+new
+ genome /lustre/scratch127/casm/team113da/projects/fur_germline/resources/IGV/Felis_catus.Felis_catus_9.0.dna.toplevel.fa
+ load /lustre/scratch127/casm/team113da/projects/fur_germline/resources/IGV/Felis_catus.Felis_catus_9.0.104.sorted.gtf.gz
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3064/CATD0391b/CATD0391b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2987/CATD0550b/CATD0550b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2987/CATD0558b/CATD0558b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2965/CATD0518b/CATD0518b.sample.dupmarked.bam
+snapshotDirectory /lustre/scratch127/casm/team113da/projects/fur_germline/cohort_analysis/cohort_tables/igv_plots/screenshots
+ goto B2:144037601-144037647
+ sort base
+ collapse
+ colorBy FIRST_OF_PAIR_STRAND
+ snapshot ARID1B_B2_144037624_144037624_C_-.png
+exit

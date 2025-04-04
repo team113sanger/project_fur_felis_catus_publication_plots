@@ -1,0 +1,22 @@
+{
+  "study_id": "6555_2711",
+  "chrom_list": "/lustre/scratch127/casm/team113da/projects/fur_germline/metadata/cat_contigs.txt",
+  "post_process_only": false,
+  "summarise_results": false,
+  "tsv_file": "/lustre/scratch127/casm/team113da/projects/fur_germline/6555_2711/sample_manifest.tsv",
+  "samples_to_process": -1,
+  "run_mode": "sort_inputs",
+  "run_markDuplicates": true,
+  "run_coord_sort_cram": true,
+  "run_deepvariant": false,
+  "run_haplotypecaller": true,
+  "reference_genome": "/lustre/scratch124/casm/team78pipelines/reference/Cat/Felis_catus_9.0/genome.fa",
+  "baitset": "/lustre/scratch125/casm/team113da/projects/FUR/FUR_bases/FUR_base_cat/metadata/references/baitset/DNA/S3250994_Feline_HSA_Jan2020_146.bed",
+  "vep_cache": "/lustre/scratch125/casm/team113da/users/bf14/git/ensembl-vep/cache",
+  "custom_files": "/lustre/scratch125/casm/team113da/users/bf14/variant_caller_benchmarking/VEP/SRA_99_Lives.snp_indel.filt.54cats.short.alt.no_header.vcf.gz{,.tbi}",
+  "custom_args": "SRA_99_Lives.snp_indel.filt.54cats.short.alt.no_header.vcf.gz,99_Lives,vcf,exact,0,AF",
+  "species": "felis_catus",
+  "db_version": "104",
+  "assembly": "Felis_catus_9.0",
+  "outdir": "/lustre/scratch127/casm/team113da/projects/fur_germline/6555_2711/results"
+}

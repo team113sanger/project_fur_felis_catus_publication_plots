@@ -1,0 +1,25 @@
+new
+ genome /lustre/scratch127/casm/team113da/projects/fur_germline/resources/IGV/Felis_catus.Felis_catus_9.0.dna.toplevel.fa
+ load /lustre/scratch127/casm/team113da/projects/fur_germline/resources/IGV/Felis_catus.Felis_catus_9.0.104.sorted.gtf.gz
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3064/CATD0379b/CATD0379b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3064/CATD0398b/CATD0398b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3064/CATD0422b/CATD0422b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3064/CATD0441b/CATD0441b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3142/CATD300b/CATD300b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3142/CATD323b/CATD323b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3142/CATD327b/CATD327b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3073/CATD0624b/CATD0624b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2821/CATD0164b/CATD0164b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2820/CATD0122b/CATD0122b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2820/CATD274b/CATD274b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3135/CATD0720b/CATD0720b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3065/CATD0745b/CATD0745b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2964/CATD0712b/CATD0712b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2965/CATD0512b/CATD0512b.sample.dupmarked.bam
+snapshotDirectory /lustre/scratch127/casm/team113da/projects/fur_germline/cohort_analysis/cohort_tables/igv_plots/screenshots
+ goto A3:123000611-123000657
+ sort base
+ collapse
+ colorBy FIRST_OF_PAIR_STRAND
+ snapshot DNMT3A_A3_123000634_123000634_G_A.png
+exit

@@ -1,0 +1,31 @@
+work
+.nextflow*
+.nextflow
+execution*
+*/results/*
+!*/results
+!*/results/sample_map.txt
+*/mafs/*
+!*/mafs
+!*/mafs/*x
+!*/mafs/*sorted.maf
+*/maf_test*
+resources
+scripts/MAF
+scripts/QC
+*.[oe]
+**/logs
+*tmp
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+# Icon must end with two \r
+Icon
+._*
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+

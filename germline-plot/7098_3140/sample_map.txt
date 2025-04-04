@@ -1,0 +1,11 @@
+CATD0561b	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0561b.sorted.dups.coord.bam.gatk.g.vcf.gz
+CATD0561c	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0561c.sorted.dups.coord.bam.gatk.g.vcf.gz
+CATD0562b	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0562b.sorted.dups.coord.bam.gatk.g.vcf.gz
+CATD0563b	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0563b.sorted.dups.coord.bam.gatk.g.vcf.gz
+CATD0564b	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0564b.sorted.dups.coord.bam.gatk.g.vcf.gz
+CATD0565b	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0565b.sorted.dups.coord.bam.gatk.g.vcf.gz
+CATD0566b	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0566b.sorted.dups.coord.bam.gatk.g.vcf.gz
+CATD0567b	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0567b.sorted.dups.coord.bam.gatk.g.vcf.gz
+CATD0568b	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0568b.sorted.dups.coord.bam.gatk.g.vcf.gz
+CATD0569b	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0569b.sorted.dups.coord.bam.gatk.g.vcf.gz
+CATD0570b	/lustre/scratch127/casm/team113da/projects/fur_germline/results/gatk_haplotypecaller/CATD0570b.sorted.dups.coord.bam.gatk.g.vcf.gz

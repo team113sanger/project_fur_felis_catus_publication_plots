@@ -1,0 +1,17 @@
+new
+ genome /lustre/scratch127/casm/team113da/projects/fur_germline/resources/IGV/Felis_catus.Felis_catus_9.0.dna.toplevel.fa
+ load /lustre/scratch127/casm/team113da/projects/fur_germline/resources/IGV/Felis_catus.Felis_catus_9.0.104.sorted.gtf.gz
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2821/CATD0184b/CATD0184b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3135/CATD0730b/CATD0730b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3065/CATD0744b/CATD0744b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2822/CATD283b/CATD283b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2822/CATD287b/CATD287b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2987/CATD0540b/CATD0540b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2965/CATD0518b/CATD0518b.sample.dupmarked.bam
+snapshotDirectory /lustre/scratch127/casm/team113da/projects/fur_germline/cohort_analysis/cohort_tables/igv_plots/screenshots
+ goto E1:43535966-43536015
+ sort base
+ collapse
+ colorBy FIRST_OF_PAIR_STRAND
+ snapshot BRCA1_E1_43535989_43535992_ATTG_-.png
+exit

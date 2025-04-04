@@ -1,0 +1,40 @@
+new
+ genome /lustre/scratch127/casm/team113da/projects/fur_germline/resources/IGV/Felis_catus.Felis_catus_9.0.dna.toplevel.fa
+ load /lustre/scratch127/casm/team113da/projects/fur_germline/resources/IGV/Felis_catus.Felis_catus_9.0.104.sorted.gtf.gz
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3064/CATD0386b/CATD0386b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3064/CATD0392b/CATD0392b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3064/CATD0440b/CATD0440b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3142/CATD0677b/CATD0677b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3142/CATD301b/CATD301b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3073/CATD0456b/CATD0456b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3073/CATD0613b/CATD0613b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2821/CATD0179b/CATD0179b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2821/CATD0671b/CATD0671b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2820/CATD248b/CATD248b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3135/CATD0577b/CATD0577b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3135/CATD0590b/CATD0590b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3135/CATD0591b/CATD0591b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3135/CATD0682b/CATD0682b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3135/CATD0720b/CATD0720b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3135/CATD0723b/CATD0723b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3135/CATD0725b/CATD0725b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3135/CATD0727b/CATD0727b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3065/CATD0469b/CATD0469b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/3065/CATD0738b/CATD0738b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2822/CATD0143b/CATD0143b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2822/CATD0152b/CATD0152b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2822/CATD0644b/CATD0644b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2822/CATD293b/CATD293b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2987/CATD337b/CATD337b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2965/CATD0516b/CATD0516b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2965/CATD0519b/CATD0519b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2965/CATD199b/CATD199b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2965/CATD206b/CATD206b.sample.dupmarked.bam
+load /lustre/scratch125/casm/team113da/users/bf14/samples/2965/CATD212b/CATD212b.sample.dupmarked.bam
+snapshotDirectory /lustre/scratch127/casm/team113da/projects/fur_germline/cohort_analysis/cohort_tables/igv_plots/screenshots
+ goto A2:3157160-3157207
+ sort base
+ collapse
+ colorBy FIRST_OF_PAIR_STRAND
+ snapshot MAP2K2_A2_3157183_3157184_TG_-.png
+exit
