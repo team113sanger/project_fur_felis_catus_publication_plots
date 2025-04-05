@@ -26,7 +26,7 @@ REPO_SERIES = [
     (
         "git@gitlab.internal.sanger.ac.uk:DERMATLAS/fur/fur2cosmic.git",
         "6aba4409ac8c4e26ffc0f67ad477fbe1d30e2a28",
-        "homology-plot",
+        "human-comparison-plot",
     ),
 ]
 
