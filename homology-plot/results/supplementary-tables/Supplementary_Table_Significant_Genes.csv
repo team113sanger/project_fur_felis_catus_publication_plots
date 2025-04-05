@@ -1,0 +1,502 @@
+Cohort          , Tumour              , Gene     , Freq_cbio           , Freq_fur            , p_val                 , p_adj
+china_pan_cancer, cholangiocarcinoma  , ARFRP1   , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , AURKA    , 0.002               , 0.07142857142857142 , 1.6164190905776366e-06, 0.00024160711230339848
+china_pan_cancer, cholangiocarcinoma  , AURKB    , 0.0                 , 0.07142857142857142 , 1.5893082405682435e-09, 4.0384322392839066e-07
+china_pan_cancer, cholangiocarcinoma  , BARD1    , 0.004               , 0.07142857142857142 , 5.3502997240606476e-05, 0.002892576935923001
+china_pan_cancer, cholangiocarcinoma  , BCL2L2   , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , BCOR     , 0.013999999999999999, 0.10714285714285714 , 0.0003787196407702975 , 0.017820863096246777
+china_pan_cancer, cholangiocarcinoma  , CD274    , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , CDC73    , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , CHEK2    , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , CRBN     , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , CREB3L2  , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , CRKL     , 0.0                 , 0.07142857142857142 , 1.5893082405682435e-09, 4.0384322392839066e-07
+china_pan_cancer, cholangiocarcinoma  , CSF1     , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , CTNNB1   , 0.006               , 0.21428571428571427 , 0.0                   , 0.0
+china_pan_cancer, cholangiocarcinoma  , CYP17A1  , 0.006               , 0.07142857142857142 , 0.00044609400886064243, 0.0185823750248343
+china_pan_cancer, cholangiocarcinoma  , FGF10    , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , FGF4     , 0.002               , 0.07142857142857142 , 1.6164190905776366e-06, 0.00024160711230339848
+china_pan_cancer, cholangiocarcinoma  , FYN      , 0.006               , 0.07142857142857142 , 0.00044609400886064243, 0.0185823750248343
+china_pan_cancer, cholangiocarcinoma  , GID4     , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , HSP90AA1 , 0.006               , 0.07142857142857142 , 0.00044609400886064243, 0.0185823750248343
+china_pan_cancer, cholangiocarcinoma  , INHBA    , 0.006               , 0.07142857142857142 , 0.00044609400886064243, 0.0185823750248343
+china_pan_cancer, cholangiocarcinoma  , ITK      , 0.01                , 0.10714285714285714 , 3.568702345924102e-05 , 0.002015127257998476
+china_pan_cancer, cholangiocarcinoma  , KEL      , 0.006               , 0.10714285714285714 , 7.158351855718337e-07 , 0.0001299240861812878
+china_pan_cancer, cholangiocarcinoma  , KLHL6    , 0.002               , 0.07142857142857142 , 1.6164190905776366e-06, 0.00024160711230339848
+china_pan_cancer, cholangiocarcinoma  , LCK      , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , LMO1     , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , LYN      , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , MEF2B    , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , MITF     , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , MYCN     , 0.006               , 0.07142857142857142 , 0.00044609400886064243, 0.0185823750248343
+china_pan_cancer, cholangiocarcinoma  , NFIB     , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , NPM1     , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , NRG1     , 0.013999999999999999, 0.10714285714285714 , 0.0003787196407702975 , 0.017820863096246777
+china_pan_cancer, cholangiocarcinoma  , PIK3CD   , 0.006               , 0.07142857142857142 , 0.00044609400886064243, 0.0185823750248343
+china_pan_cancer, cholangiocarcinoma  , PRKAR1A  , 0.004               , 0.07142857142857142 , 5.3502997240606476e-05, 0.002892576935923001
+china_pan_cancer, cholangiocarcinoma  , PRKN     , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , RAD51D   , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , RAD54L   , 0.006               , 0.07142857142857142 , 0.00044609400886064243, 0.0185823750248343
+china_pan_cancer, cholangiocarcinoma  , SDHC     , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , SETD2    , 0.012               , 0.10714285714285714 , 0.00013230770370498135, 0.00700403906488245
+china_pan_cancer, cholangiocarcinoma  , SOCS1    , 0.0                 , 0.07142857142857142 , 1.5893082405682435e-09, 4.0384322392839066e-07
+china_pan_cancer, cholangiocarcinoma  , TENT5C   , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , TIPARP   , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, cholangiocarcinoma  , VEGFA    , 0.0                 , 0.03571428571428571 , 2.0131959789448928e-05, 0.0012179835672616601
+china_pan_cancer, colorectal_carcinoma, APC      , 0.7                 , 0.10714285714285714 , 2.276445698612406e-11 , 8.263497885963034e-09
+china_pan_cancer, colorectal_carcinoma, CCND1    , 0.002               , 0.03571428571428571 , 0.000272153377490314  , 0.013559641807899762
+china_pan_cancer, colorectal_carcinoma, CTNNB1   , 0.068               , 0.4642857142857143  , 7.327471962526033e-15 , 3.72382125135573e-12
+china_pan_cancer, colorectal_carcinoma, TP53     , 0.741               , 0.07142857142857142 , 3.9968028886505635e-15, 2.5389690350152705e-12
+china_pan_cancer, lung_carcinoma      , CRLF2    , 0.0                 , 0.017543859649122806, 2.6566511213133026e-09, 5.625458749380918e-07
+china_pan_cancer, lung_carcinoma      , EGFR     , 0.47200000000000003 , 0.0                 , 1.8047785488306545e-12, 7.643237154297822e-10
+china_pan_cancer, lung_carcinoma      , FGFR2    , 0.009000000000000001, 0.08771929824561403 , 2.097695972480551e-08 , 4.100188820056215e-06
+china_pan_cancer, lung_carcinoma      , MEF2B    , 0.0                 , 0.017543859649122806, 2.6566511213133026e-09, 5.625458749380918e-07
+china_pan_cancer, lung_carcinoma      , RAD51    , 0.001               , 0.017543859649122806, 0.001180442526890424  , 0.048379104206912375
+china_pan_cancer, mammary_carcinoma   , BAP1     , 0.003               , 0.06521739130434782 , 0.00014829029434859642, 0.007536112758795671
+china_pan_cancer, mammary_carcinoma   , CTNNB1   , 0.0                 , 0.06521739130434782 , 4.342656285016844e-06 , 0.0006105407894607206
+china_pan_cancer, mammary_carcinoma   , DICER1   , 0.003               , 0.06521739130434782 , 0.00014829029434859642, 0.007536112758795671
+china_pan_cancer, mammary_carcinoma   , FBXW7    , 0.009000000000000001, 0.5434782608695652  , 0.0                   , 0.0
+china_pan_cancer, mammary_carcinoma   , NOTCH1   , 0.016               , 0.10869565217391304 , 0.0002855983585887678 , 0.013955873637962673
+china_pan_cancer, pancreatic_carcinoma, CTNNB1   , 0.017               , 0.5769230769230769  , 0.0                   , 0.0
+china_pan_cancer, pancreatic_carcinoma, GID4     , 0.0                 , 0.038461538461538464, 2.4964335404664695e-05, 0.0014416903696193861
+china_pan_cancer, pancreatic_carcinoma, NBN      , 0.0                 , 0.038461538461538464, 2.4964335404664695e-05, 0.0014416903696193861
+china_pan_cancer, pancreatic_carcinoma, TP53     , 0.755               , 0.34615384615384615 , 4.5652400628704015e-06, 0.0006105407894607206
+msk_chord       , colorectal_carcinoma, APC      , 0.754               , 0.10714285714285714 , 3.1086244689504383e-15, 3.693292912117276e-14
+msk_chord       , colorectal_carcinoma, CTNNB1   , 0.068               , 0.4642857142857143  , 2.220446049250313e-16 , 2.6556534749033746e-15
+msk_chord       , colorectal_carcinoma, TP53     , 0.742               , 0.07142857142857142 , 8.881784197001252e-16 , 1.0587322823535046e-14
+msk_chord       , colorectal_carcinoma, BCORL1   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, NT5C2    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ACVR1B   , 0.0                 , 0.10714285714285714 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, CUX1     , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, DNMT1    , 0.037000000000000005, 0.14285714285714285 , 0.003242808156808774  , 0.03515164853966732
+msk_chord       , colorectal_carcinoma, FANCG    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, FBXO11   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, NCOR2    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, RUNX1T1  , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, AFDN     , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ATIC     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, CBFA2T3  , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, CTNNA1   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, EBF1     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, FANCE    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, GNA12    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, JARID2   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, LRP1B    , 0.0                 , 0.10714285714285714 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, MECOM    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, NUP214   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PAX3     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PML      , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, RBM15    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, TAL1     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, TFE3     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, TNFRSF17 , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, TRAF3    , 0.0                 , 0.10714285714285714 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ACVR2A   , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, AFF1     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ARHGEF28 , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ARID3A   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ATP1A1   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ATP6AP1  , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, CACNA1D  , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, CAMTA1   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, CDH11    , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, CHD4     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ECT2L    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, EML4     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, EPS15    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, EZR      , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, FOXO4    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, GABRA6   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, GRM3     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, HERPUD1  , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, HLF      , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, HOXD11   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, MAP3K7   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, MEF2C    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, MLLT6    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, MRTFA    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, NCOA2    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, NIN      , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PLAG1    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, POU2AF1  , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PRCC     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PRDM16   , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PRKDC    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PTPN1    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, RANBP2   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, RELN     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, RNF213   , 0.0                 , 0.10714285714285714 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ROBO1    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, RPL22    , 0.0                 , 0.10714285714285714 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, SETD1B   , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, SETDB2   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, SH3GL1   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, SOX10    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, STAT4    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, TET3     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, XPA      , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ZBTB7A   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ZNF521   , 0.0                 , 0.10714285714285714 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ACSL3    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, CLIP1    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, CSF1     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, CYP17A1  , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, DDR1     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ELP2     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, FAT4     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, FBXO31   , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, IRS4     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, LRRK2    , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PCLO     , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PRF1     , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PTPRB    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, PTPRK    , 0.0                 , 0.07142857142857142 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, SNX29    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, STIL     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, TFRC     , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, TNFRSF11A, 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, TRIM33   , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, TYRO3    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, WDR90    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , colorectal_carcinoma, ZNF24    , 0.0                 , 0.03571428571428571 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , EGFR     , 0.256               , 0.0                 , 9.788969307811257e-06 , 0.00011257314703982946
+msk_chord       , lung_carcinoma      , FGFR2    , 0.01                , 0.08771929824561403 , 1.195929466568657e-08 , 1.4115114888316912e-07
+msk_chord       , lung_carcinoma      , STK11    , 0.129               , 0.0                 , 0.0036883309735444847 , 0.03926923303583861
+msk_chord       , lung_carcinoma      , KEAP1    , 0.131               , 0.0                 , 0.003393188814267978  , 0.03667096826985995
+msk_chord       , lung_carcinoma      , FAS      , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , SETBP1   , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , BCL11B   , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , CIITA    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , RUNX1T1  , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , ARHGEF12 , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , CBFA2T3  , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , CD70     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , EBF1     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , FGF14    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , FOXO3    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , HDAC7    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , LRP1B    , 0.0                 , 0.10526315789473684 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , MLLT10   , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , MYH11    , 0.0                 , 0.07017543859649122 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , NCSTN    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , NUP214   , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , PML      , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , RBM15    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , SMC3     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , TAL1     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , TLX3     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , TRAF3    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , ACVR2A   , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , ARHGEF28 , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , ATP6AP1  , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , CDH11    , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , CMTR2    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , CREB1    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , DDX5     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , EGR1     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , EIF3E    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , ERC1     , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , EXT1     , 0.0                 , 0.05263157894736842 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , GABRA6   , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , HIP1     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , KDSR     , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , KEL      , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , MGAM     , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , MLLT6    , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , MYH9     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , NCOA2    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , PER1     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , PRKDC    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , RNF213   , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , ROBO1    , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , RPL22    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , RSPO2    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , SETD1B   , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , SETD5    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , SLC34A2  , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , SMARCA1  , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , SMG1     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , STAG1    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , TET3     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , TFG      , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , WIF1     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , XPC      , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , ZMYM2    , 0.0                 , 0.05263157894736842 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , ZNF521   , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , AFF3     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , BCL9L    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , CPS1     , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , DUSP9    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , FAT4     , 0.0                 , 0.12280701754385964 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , GOLGA5   , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , IKBKB    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , INPP5D   , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , KTN1     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , LRRK2    , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , NCOA1    , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , PCLO     , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , POLQ     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , PPFIBP1  , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , PTK7     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , PTPRB    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , PTPRK    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , SALL4    , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , SEPTIN6  , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , STIL     , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , TNFRSF11A, 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , TRIM33   , 0.0                 , 0.017543859649122806, 0.0                   , 0.0
+msk_chord       , lung_carcinoma      , TRRAP    , 0.0                 , 0.03508771929824561 , 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , BAP1     , 0.011000000000000001, 0.06521739130434782 , 0.0005700509922157426 , 0.0063127869137965574
+msk_chord       , mammary_carcinoma   , CREBBP   , 0.021               , 0.08695652173913043 , 0.002143506363758485  , 0.02330576010050135
+msk_chord       , mammary_carcinoma   , CTNNB1   , 0.005               , 0.06521739130434782 , 4.155236932312789e-08 , 4.888193479717472e-07
+msk_chord       , mammary_carcinoma   , FBXW7    , 0.006               , 0.5434782608695652  , 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , GATA3    , 0.151               , 0.0                 , 0.004267814112525192  , 0.04530448827142127
+msk_chord       , mammary_carcinoma   , NOTCH1   , 0.021               , 0.10869565217391304 , 4.840592926624865e-05 , 0.0005444528972015679
+msk_chord       , mammary_carcinoma   , NRAS     , 0.001               , 0.021739130434782608, 3.310818731061538e-05 , 0.0003735603021084528
+msk_chord       , mammary_carcinoma   , PIK3R1   , 0.023               , 0.13043478260869565 , 2.191924607819473e-06 , 2.5369759654375063e-05
+msk_chord       , mammary_carcinoma   , CD274    , 0.002               , 0.021739130434782608, 0.003442226367369683  , 0.036758060137269115
+msk_chord       , mammary_carcinoma   , CD79B    , 0.001               , 0.021739130434782608, 3.310818731061538e-05 , 0.0003735603021084528
+msk_chord       , mammary_carcinoma   , PDCD1LG2 , 0.001               , 0.021739130434782608, 3.310818731061538e-05 , 0.0003735603021084528
+msk_chord       , mammary_carcinoma   , MSH3     , 0.005               , 0.043478260869565216, 0.0003624966415867181 , 0.004039248291966288
+msk_chord       , mammary_carcinoma   , DICER1   , 0.008               , 0.06521739130434782 , 2.8645853070274896e-05, 0.0003273290471851794
+msk_chord       , mammary_carcinoma   , ERRFI1   , 0.002               , 0.021739130434782608, 0.003442226367369683  , 0.036758060137269115
+msk_chord       , mammary_carcinoma   , MAP3K14  , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , MAX      , 0.002               , 0.043478260869565216, 4.261500929914064e-09 , 5.046292190274476e-08
+msk_chord       , mammary_carcinoma   , MYB      , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , NCOR2    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , SGK1     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , TBL1XR1  , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , BCL3     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , BTG2     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , COL1A1   , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , HOXA11   , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , INSR     , 0.006               , 0.043478260869565216, 0.0013544123027524613 , 0.014952711822387173
+msk_chord       , mammary_carcinoma   , KAT6A    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , KLHL6    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , KMT5A    , 0.001               , 0.021739130434782608, 3.310818731061538e-05 , 0.0003735603021084528
+msk_chord       , mammary_carcinoma   , LEF1     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , LRP1B    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , MYH11    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , NR4A3    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , PAX7     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , PIK3C3   , 0.003               , 0.043478260869565216, 3.0805669846145634e-06, 3.5540431963977664e-05
+msk_chord       , mammary_carcinoma   , PLCG1    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , SPRED1   , 0.002               , 0.021739130434782608, 0.003442226367369683  , 0.036758060137269115
+msk_chord       , mammary_carcinoma   , STK40    , 0.002               , 0.021739130434782608, 0.003442226367369683  , 0.036758060137269115
+msk_chord       , mammary_carcinoma   , TAL1     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , TFE3     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , TRAF3    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , TYK2     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , ABI1     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , ADGRA2   , 0.0                 , 0.06521739130434782 , 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , BACH2    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , BRD3     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , CACNA1D  , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , CHD2     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , CREB3L1  , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , ECT2L    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , ELN      , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , EPOR     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , GATA6    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , GTF2I    , 0.0                 , 0.08695652173913043 , 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , IRF2     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , KSR2     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , MGAM     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , MRTFA    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , MSN      , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , MYH9     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , NDRG1    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , PIK3C2B  , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , PRDM16   , 0.0                 , 0.06521739130434782 , 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , PRKDC    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , PRRX1    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , RANBP2   , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , RAP1GDS1 , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , RELN     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , RNF213   , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , RPL22    , 0.0                 , 0.043478260869565216, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , SETD1B   , 0.0                 , 0.043478260869565216, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , SETD5    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , SMG1     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , TET3     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , TRIM27   , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , ZMYM2    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , ZNF521   , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , AFF3     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , ATP2B3   , 0.0                 , 0.043478260869565216, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , BCL9L    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , CD36     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , FAT4     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , FIP1L1   , 0.0                 , 0.043478260869565216, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , GMPS     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , IRS4     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , KDM2B    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , LIFR     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , LRIG3    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , LRRK2    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , NCOA1    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , NFATC2   , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , NFIB     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , NFKBIE   , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , PCLO     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , PDCD11   , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , POLQ     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , PTPRB    , 0.0                 , 0.043478260869565216, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , PTPRC    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , SEPTIN9  , 0.0                 , 0.043478260869565216, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , SS18L1   , 0.0                 , 0.043478260869565216, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , TLL2     , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , TRRAP    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , mammary_carcinoma   , WDR90    , 0.0                 , 0.021739130434782608, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, CBL      , 0.003               , 0.038461538461538464, 0.001517496851090927  , 0.016549479336517466
+msk_chord       , pancreatic_carcinoma, CTNNB1   , 0.008               , 0.5769230769230769  , 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, NF1      , 0.009000000000000001, 0.07692307692307693 , 0.00045739158387192447, 0.005080869978119087
+msk_chord       , pancreatic_carcinoma, SMO      , 0.003               , 0.038461538461538464, 0.001517496851090927  , 0.016549479336517466
+msk_chord       , pancreatic_carcinoma, TP53     , 0.721               , 0.34615384615384615 , 2.3772390666643162e-05, 0.0002725090661722545
+msk_chord       , pancreatic_carcinoma, CDKN1B   , 0.001               , 0.038461538461538464, 5.849667057411523e-07 , 6.7924289326836715e-06
+msk_chord       , pancreatic_carcinoma, NKX2-1   , 0.003               , 0.038461538461538464, 0.001517496851090927  , 0.016549479336517466
+msk_chord       , pancreatic_carcinoma, AURKB    , 0.001               , 0.038461538461538464, 5.849667057411523e-07 , 6.7924289326836715e-06
+msk_chord       , pancreatic_carcinoma, BCR      , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, NBN      , 0.002               , 0.038461538461538464, 6.300871389930407e-05 , 0.0007042843161081091
+msk_chord       , pancreatic_carcinoma, EPAS1    , 0.003               , 0.038461538461538464, 0.001517496851090927  , 0.016549479336517466
+msk_chord       , pancreatic_carcinoma, SGK1     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, ABL2     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, CCNQ     , 0.002               , 0.038461538461538464, 6.300871389930407e-05 , 0.0007042843161081091
+msk_chord       , pancreatic_carcinoma, EMSY     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, LEF1     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, LZTR1    , 0.001               , 0.038461538461538464, 5.849667057411523e-07 , 6.7924289326836715e-06
+msk_chord       , pancreatic_carcinoma, MYH11    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, NUP98    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, PAX7     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, RRAS     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, XBP1     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, BUB1B    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, CACNA1D  , 0.0                 , 0.07692307692307693 , 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, CDH11    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, FCRL4    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, FOXF1    , 0.001               , 0.038461538461538464, 5.849667057411523e-07 , 6.7924289326836715e-06
+msk_chord       , pancreatic_carcinoma, GID4     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, HIP1     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, HLF      , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, KDSR     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, KEL      , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, MYH9     , 0.0                 , 0.07692307692307693 , 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, NFE2     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, NRG1     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, PTPN13   , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, SETD1A   , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, TET3     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, ASMTL    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, BCL9L    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, CLIP1    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, ELP2     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, KAT6B    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, KLF2     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, LRRK2    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, MNX1     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, PCLO     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, POLQ     , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, PTPRB    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, RUNX2    , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_chord       , pancreatic_carcinoma, TRIM33   , 0.0                 , 0.038461538461538464, 0.0                   , 0.0
+msk_impact      , b_cell_lymphoma     , BCL2     , 0.27                , 0.0                 , 8.177986193325104e-05 , 0.011209483792104503
+msk_impact      , b_cell_lymphoma     , CREBBP   , 0.311               , 0.020833333333333332, 8.282935712178308e-05 , 0.011209483792104503
+msk_impact      , b_cell_lymphoma     , PIM1     , 0.257               , 0.020833333333333332, 0.0005848893565225666 , 0.03550622446654639
+msk_impact      , b_cell_lymphoma     , TNFRSF14 , 0.257               , 0.0                 , 0.00013307380341109898, 0.01615672530826519
+msk_impact      , basal_cell_carcinoma, EPHA5    , 0.33299999999999996 , 0.0                 , 0.0002068166389650461 , 0.01940316103744796
+msk_impact      , basal_cell_carcinoma, FOXP1    , 0.33299999999999996 , 0.0                 , 0.0002068166389650461 , 0.01940316103744796
+msk_impact      , basal_cell_carcinoma, NCOA3    , 0.375               , 0.0                 , 0.0002068166389650461 , 0.01940316103744796
+msk_impact      , basal_cell_carcinoma, NOTCH1   , 0.41700000000000004 , 0.02631578947368421 , 0.0002860566448719126 , 0.024600871458984486
+msk_impact      , basal_cell_carcinoma, PTCH1    , 0.833               , 0.05263157894736842 , 3.382383706451719e-08 , 1.745309992529087e-05
+msk_impact      , basal_cell_carcinoma, PTPRD    , 0.33299999999999996 , 0.0                 , 0.0002068166389650461 , 0.01940316103744796
+msk_impact      , basal_cell_carcinoma, TERT     , 0.583               , 0.0                 , 3.8358696241580503e-07, 0.00013195391507103693
+msk_impact      , basal_cell_carcinoma, TP53     , 0.75                , 0.13157894736842105 , 3.1900798378226014e-05, 0.00658432478526585
+msk_impact      , cholangiocarcinoma  , ATRX     , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , AURKA    , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , AURKB    , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , BARD1    , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , CRKL     , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , CTNNB1   , 0.023               , 0.21428571428571427 , 1.6992768254064927e-05, 0.004054223990068569
+msk_impact      , cholangiocarcinoma  , ERCC2    , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , INHBA    , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , JAK3     , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , MYCN     , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , NOTCH1   , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , PRKAR1A  , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , PTEN     , 0.012               , 0.14285714285714285 , 0.0001600333815825472 , 0.018350494421465413
+msk_impact      , cholangiocarcinoma  , SOCS1    , 0.0                 , 0.07142857142857142 , 0.00042708376682742966, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , TGFBR2   , 0.006               , 0.10714285714285714 , 0.00038278341122599535, 0.027123104453286608
+msk_impact      , cholangiocarcinoma  , TP53     , 0.203               , 0.5                 , 0.0007167534071172987 , 0.04169765274787386
+msk_impact      , colorectal_carcinoma, APC      , 0.752               , 0.10714285714285714 , 2.5757174171303632e-14, 2.218172312495881e-11
+msk_impact      , colorectal_carcinoma, CTNNB1   , 0.064               , 0.4642857142857143  , 2.886579864025407e-15 , 3.97193389289896e-12
+msk_impact      , colorectal_carcinoma, PDPK1    , 0.001               , 0.03571428571428571 , 5.465378775770802e-05 , 0.009024433434552746
+msk_impact      , colorectal_carcinoma, TP53     , 0.732               , 0.07142857142857142 , 2.6867397195928788e-14, 2.218172312495881e-11
+msk_impact      , cscc                , BCOR     , 0.109               , 0.4166666666666667  , 0.0002047300137169028 , 0.01940316103744796
+msk_impact      , cscc                , CD79B    , 0.0                 , 0.21666666666666667 , 0.00024691275992050343, 0.022650130510040847
+msk_impact      , cscc                , CDKN2A   , 0.455               , 0.13333333333333333 , 0.00014241137205228682, 0.016796404109481144
+msk_impact      , cscc                , CRLF2    , 0.0                 , 0.25                , 6.993893020479369e-05 , 0.010914075816090631
+msk_impact      , cscc                , EPHA3    , 0.16399999999999998 , 0.5333333333333333  , 3.554187822363275e-05 , 0.006695005465524353
+msk_impact      , cscc                , EPHB1    , 0.091               , 0.45                , 1.7678302282275737e-05, 0.004054223990068569
+msk_impact      , cscc                , ERG      , 0.036000000000000004, 0.3                 , 0.00019459832026513801, 0.01940316103744796
+msk_impact      , cscc                , FLT1     , 0.091               , 0.43333333333333335 , 3.568074618254258e-05 , 0.006695005465524353
+msk_impact      , cscc                , GRIN2A   , 0.255               , 0.6333333333333333  , 4.564018726416208e-05 , 0.008191421435933089
+msk_impact      , cscc                , KIT      , 0.091               , 0.35                , 0.0009066446965546593 , 0.04924512246549517
+msk_impact      , cscc                , MPL      , 0.018000000000000002, 0.31666666666666665 , 2.460036692175649e-05 , 0.005344753402790041
+msk_impact      , cscc                , NTRK3    , 0.145               , 0.45                , 0.00039185069987590637, 0.027123104453286608
+msk_impact      , cscc                , PDGFRA   , 0.109               , 0.38333333333333336 , 0.0007171834653825204 , 0.04169765274787386
+msk_impact      , cscc                , PDGFRB   , 0.091               , 0.35                , 0.0009066446965546593 , 0.04924512246549517
+msk_impact      , cscc                , PIK3CD   , 0.018000000000000002, 0.25                , 0.0003329777493079611 , 0.02695161076751497
+msk_impact      , cscc                , PLCG2    , 0.111               , 0.38333333333333336 , 0.0007171834653825204 , 0.04169765274787386
+msk_impact      , cscc                , TERT     , 0.618               , 0.2833333333333333  , 0.0003054916882787584 , 0.02522139378429429
+msk_impact      , cscc                , XPO1     , 0.0                 , 0.18333333333333332 , 0.0008403893283406294 , 0.04688009658635295
+msk_impact      , glioma              , BCL2L1   , 0.004               , 0.14285714285714285 , 7.127345456048317e-07 , 0.0001961445469504497
+msk_impact      , glioma              , CXCR4    , 0.01                , 0.14285714285714285 , 0.0007372382048171922 , 0.04226832374285235
+msk_impact      , glioma              , MAX      , 0.004               , 0.14285714285714285 , 7.127345456048317e-07 , 0.0001961445469504497
+msk_impact      , glioma              , PDGFRA   , 0.046               , 0.5714285714285714  , 6.946803132734658e-10 , 4.779400555321445e-07
+msk_impact      , glioma              , PTPN11   , 0.059000000000000004, 0.42857142857142855 , 7.138567030873233e-05 , 0.010914075816090631
+msk_impact      , glioma              , SOCS1    , 0.004               , 0.14285714285714285 , 7.127345456048317e-07 , 0.0001961445469504497
+msk_impact      , glioma              , TERT     , 0.672               , 0.0                 , 0.00018020411018682125, 0.01940316103744796
+msk_impact      , glioma              , TNFAIP3  , 0.008               , 0.14285714285714285 , 0.0001802497514220569 , 0.01940316103744796
+msk_impact      , lung_carcinoma      , EGFR     , 0.28600000000000003 , 0.0                 , 2.1445559221788812e-06, 0.0005532954279221514
+msk_impact      , lung_carcinoma      , FGF19    , 0.003               , 0.03508771929824561 , 0.0002552131709938621 , 0.022902608040492666
+msk_impact      , lung_carcinoma      , FGFR2    , 0.008               , 0.08771929824561403 , 2.5911972345582512e-08, 1.5280660263223516e-05
+msk_impact      , lung_carcinoma      , STK11    , 0.17600000000000002 , 0.0                 , 0.0005093707745285059 , 0.03138332175005481
+msk_impact      , mammary_carcinoma   , CD79B    , 0.001               , 0.021739130434782608, 0.0002656915461283216 , 0.02333563196633429
+msk_impact      , mammary_carcinoma   , CTNNB1   , 0.004               , 0.06521739130434782 , 8.829126496578965e-08 , 3.637110934368531e-05
+msk_impact      , mammary_carcinoma   , FBXW7    , 0.01                , 0.5434782608695652  , 0.0                   , 0.0
+msk_impact      , mammary_carcinoma   , MAP3K14  , 0.0                 , 0.021739130434782608, 9.165201575456194e-08 , 3.637110934368531e-05
+msk_impact      , mammary_carcinoma   , NOTCH1   , 0.023               , 0.10869565217391304 , 0.00030509320520488714, 0.02522139378429429
+msk_impact      , mammary_carcinoma   , PIK3C3   , 0.003               , 0.043478260869565216, 4.828488371333428e-05 , 0.008304999998693496
+msk_impact      , mammary_carcinoma   , PIK3R1   , 0.017               , 0.13043478260869565 , 9.691913827047927e-08 , 3.637110934368531e-05
+msk_impact      , oscc                , TERT     , 0.284               , 0.02631578947368421 , 0.0008055726651217121 , 0.04555347892633462
+msk_impact      , pancreatic_carcinoma, CDKN1B   , 0.0                 , 0.038461538461538464, 8.961069891944007e-05 , 0.011209483792104503
+msk_impact      , pancreatic_carcinoma, CTNNB1   , 0.02                , 0.5769230769230769  , 0.0                   , 0.0
+msk_impact      , pancreatic_carcinoma, INPP4A   , 0.0                 , 0.038461538461538464, 8.961069891944007e-05 , 0.011209483792104503
+msk_impact      , pancreatic_carcinoma, PGR      , 0.0                 , 0.038461538461538464, 8.961069891944007e-05 , 0.011209483792104503
+msk_impact      , pancreatic_carcinoma, SMO      , 0.0                 , 0.038461538461538464, 8.961069891944007e-05 , 0.011209483792104503
+msk_impact      , pancreatic_carcinoma, TP53     , 0.6809999999999999  , 0.34615384615384615 , 0.0004794455983283541 , 0.02998714287726433
+tcga            , colorectal_carcinoma, APC      , 0.841               , 0.10714285714285714 , 1.0066263378405438e-09, 2.03615342486696e-06
+tcga            , colorectal_carcinoma, TP53     , 0.705               , 0.07142857142857142 , 1.4711710116799281e-07, 0.0001983874109250383
+tcga            , glioma              , ALB      , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , BCL2L1   , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , CXCR4    , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , FAS      , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , GNA13    , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , HOXA3    , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , MAX      , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , P2RY8    , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , PDGFRA   , 0.015               , 0.5714285714285714  , 5.1514348342607263e-14, 1.389341974800118e-10
+tcga            , glioma              , POT1     , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , PRDM14   , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , PTPN11   , 0.037000000000000005, 0.42857142857142855 , 1.5407470175032856e-05, 0.005559793716638062
+tcga            , glioma              , PTPRC    , 0.006999999999999999, 0.2857142857142857  , 1.3560358902431346e-07, 0.0001983874109250383
+tcga            , glioma              , SETD2    , 0.022000000000000002, 0.2857142857142857  , 9.101122724564092e-05 , 0.02945487358577923
+tcga            , glioma              , SOCS1    , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , STK11    , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , TRRAP    , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , glioma              , ZMYM2    , 0.0                 , 0.14285714285714285 , 3.418704792146343e-06 , 0.0013171781177740982
+tcga            , mammary_carcinoma   , FBXW7    , 0.019               , 0.5434782608695652  , 0.0                   , 0.0
+tcga            , mammary_carcinoma   , GTF2I    , 0.0                 , 0.08695652173913043 , 1.5804629277305082e-05, 0.005559793716638062
+tcga            , pancreatic_carcinoma, CACNA1D  , 0.0                 , 0.07692307692307693 , 2.635755168345355e-06 , 0.0013171781177740982
+tcga            , pancreatic_carcinoma, CTNNB1   , 0.005               , 0.5769230769230769  , 0.0                   , 0.0
+tcga            , pancreatic_carcinoma, TP53     , 0.7290000000000001  , 0.34615384615384615 , 4.5412048506277e-05   , 0.015309536852678635
