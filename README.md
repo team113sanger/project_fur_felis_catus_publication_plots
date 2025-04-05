@@ -9,16 +9,16 @@ documentation, results and data files.
 
 | Subdirectory | Description | Language |
 |--------------|-------------|----------|
-| `homology-plot`   | Feline-to-human comparative oncogenomics [see the README.md](homology-plot/README.md) | Python |
+| `human-comparison-plot`   | Feline-to-human comparative oncogenomics [see the README.md](human-comparison-plot/README.md) | Python |
 | `germline-plot`   | Germline variant calling across feline samples [see the README.md](germline-plot/README.md) | R |
 
 ## TODO
 
-- [x] Create a `homology` repo
-- [x] Include `homology` repo via `git_subclone.py`
-- [x] Include `germline` repo via `git_subclone.py`
-- [ ] Add data files to `homology` subdirectory / repo
-- [ ] ? Add plots to `homology` subdirectory / repo
+- [x] Create a `human-comparison-plot` repo
+- [x] Include `human-comparison-plot` repo via `git_subclone.py`
+- [x] Include `germline-plot` repo via `git_subclone.py`
+- [x] Add data files to `human-comparison-plot` subdirectory / repo
+- [x] Add plots to `human-comparison-plot` subdirectory / repo
 - [ ] Either host an `oncoplots` repo or include code directly in this repo
 - [ ] Either host an `cnv_plots` repo or include code directly in this repo
 - [ ] ? Add some code to handle data file duplicates
