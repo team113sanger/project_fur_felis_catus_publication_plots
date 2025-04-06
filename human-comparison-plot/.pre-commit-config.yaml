@@ -8,12 +8,16 @@ repos:
     rev: v4.4.0
     hooks:
       - id: trailing-whitespace
+        exclude: |
+          (?x)(data/)
       - id: end-of-file-fixer
+        exclude: |
+          (?x)(data/)
       - id: check-yaml
       - id: check-toml
       - id: check-json
         exclude: |
-          (?x)(.devcontainer/)
+          (?x)(.devcontainer/|data/)
       - id: check-merge-conflict
   - repo: https://github.com/psf/black
     rev: 23.11.0
