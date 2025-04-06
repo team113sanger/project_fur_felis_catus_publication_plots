@@ -28,6 +28,11 @@ REPO_SERIES = [
         "477d7a31921c47fe9779a53e260376ce4318e949",
         "human-comparison-plot",
     ),
+    (
+        "git@gitlab.internal.sanger.ac.uk:DERMATLAS/fur/fur-cna-plots.git",
+        "0c28ea7dadffa57162d4cf0504d2aa00ce2ae24d",
+        "cna-plot",
+    ),
 ]
 
 

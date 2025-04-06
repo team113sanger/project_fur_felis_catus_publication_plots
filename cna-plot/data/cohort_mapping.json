@@ -1,0 +1,68 @@
+{
+    "6555_Lung_carcinoma": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/6555_Lung_carcinoma/*.median_centred.cns"
+      ]
+    },
+    "6712_Oral_SCC": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/6712_Oral_SCC/*.median_centred.cns"
+      ]
+    },
+    "6841_Meningioma": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/6841_Meningioma/*.median_centred.cns"
+      ]
+    },
+    "6945_Cholangiocarcinoma": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/6945_Cholangiocarcinoma/*.median_centred.cns"
+      ]
+    },
+    "6982_Lymphoma": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/6982_Lymphoma/*.median_centred.cns"
+      ]
+    },
+    "7040_BCC": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/7040_BCC/*.median_centred.cns"
+      ]
+    },
+    "7098_Glioma": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/7098_Glioma/*.median_centred.cns"
+      ]
+    },
+    "6711_Cutaneous_SCC": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/6711_Cutaneous_SCC/*.median_centred.cns"
+      ]
+    },
+    "6713_Cutaneous_MCT": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/6713_Cutaneous_MCT/*.median_centred.cns"
+      ]
+    },
+    "6864_Pancreatic_carcinoma": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/6864_Pancreatic_carcinoma/*.median_centred.cns"
+      ]
+    },
+    "6973_OSA": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/6973_OSA/*.median_centred.cns"
+      ]
+    },
+    "6990_Mammary_carcinoma": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/6990_Mammary_carcinoma/*.median_centred.cns"
+      ]
+    },
+    "7097_CRC": {
+      "seg_files": [
+        "/lustre/scratch127/bf14/analysis/fur_cnvkit/run_cnvkit_copy_number_calling_pipeline/all_studies_farm22/7097_CRC/*.median_centred.cns"
+      ]
+    }
+  }
+  
