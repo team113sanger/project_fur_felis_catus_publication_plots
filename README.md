@@ -20,7 +20,8 @@ documentation, results and data files.
 - [x] Add data files to `human-comparison-plot` subdirectory / repo
 - [x] Add plots to `human-comparison-plot` subdirectory / repo
 - [ ] Either host an `oncoplots` repo or include code directly in this repo
-- [ ] Either host an `cnv_plots` repo or include code directly in this repo
+- [x] Host an `cnv_plots` repo
+- [x] Include `cnv_plots` repo via `git_subclone.py`
 - [ ] ? Add some code to handle data file duplicates
 
 ## Scripts
