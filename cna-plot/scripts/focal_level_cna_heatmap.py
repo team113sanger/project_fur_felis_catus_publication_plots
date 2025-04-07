@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-from curses import raw
-from re import M, T
 import typing as t
 import argparse
 import json
