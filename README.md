@@ -10,6 +10,7 @@ documentation, results and data files.
 | Subdirectory | Description | Language |
 |--------------|-------------|----------|
 | `human-comparison-plot`   | Feline-to-human comparative oncogenomics [see the README.md](human-comparison-plot/README.md) | Python |
+| `cna-plot` | Copy number alterations from CNVKit segmentation data [see the README.md](cna-plot/README.md) | Python |
 | `germline-plot`   | Germline variant calling across feline samples [see the README.md](germline-plot/README.md) | R |
 
 ## TODO

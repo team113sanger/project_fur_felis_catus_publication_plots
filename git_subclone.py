@@ -30,7 +30,7 @@ REPO_SERIES = [
     ),
     (
         "git@gitlab.internal.sanger.ac.uk:DERMATLAS/fur/fur-cna-plots.git",
-        "0c28ea7dadffa57162d4cf0504d2aa00ce2ae24d",
+        "4e70e78b3f179de313911303b5da5f77bd6578ee",
         "cna-plot",
     ),
 ]
