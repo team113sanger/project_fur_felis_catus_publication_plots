@@ -21,7 +21,8 @@ documentation, results and data files.
 - [x] Include `germline-plot` repo via `git_subclone.py`
 - [x] Add data files to `human-comparison-plot` subdirectory / repo
 - [x] Add plots to `human-comparison-plot` subdirectory / repo
-- [ ] Either host an `oncoplots` repo or include code directly in this repo
+- [x] Include `oncoplots` repo
+    - [ ] Oncoplots is a WIP
 - [x] Host an `cnv_plots` repo
 - [x] Include `cnv_plots` repo via `git_subclone.py`
 - [ ] ? Add some code to handle data file duplicates
