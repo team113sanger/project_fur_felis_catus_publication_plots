@@ -20,7 +20,7 @@ LOGGER.setLevel(logging.INFO)
 REPO_SERIES = [
     (
         "git@gitlab.internal.sanger.ac.uk:DERMATLAS/fur/fur_germline.git",
-        "0.3.1",
+        "0.3.2",
         "germline-plot",
     ),
     (

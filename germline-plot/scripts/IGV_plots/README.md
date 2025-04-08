@@ -1,7 +1,7 @@
 # IGV screen shots of the alignments that support the germline variants identified within cancer predisposition genes
 
 # Overview
-Documentation on the process followed to  generates IGV screen shots of the mapped reads on the genomic locations of the [`FUR_keepPA_vaf_size_filt_germline.nhs.lof.maf`](../../cohort_analysis/cohort_tables/FUR_keepPA_vaf_size_filt_germline.nhs.lof.maf) germline variants 
+Documentation on the process followed to  generates IGV screen shots of the mapped reads on the genomic locations of the [`FUR_keepPA_vaf_size_filt_germline.nhs.lof.vafn0.25filt.lndepthf.maf`](../../cohort_analysis/cohort_tables/FUR_keepPA_vaf_size_filt_germline.nhs.lof.vafn0.25filt.lndepthf.maf) germline variants 
 
 # Requirements
 
@@ -60,6 +60,7 @@ The batch files are generated using the `igv_plots.R` script. The script takes a
     - Reference_Allele
     - Tumor_Seq_Allele2
     - Tumor_Sample_Barcode
+    - Tumour_type - additional column with the Tumour_type name, this should match a Tumour_type in first column of the table in provided in `--study_list` see [studies_reformat.tsv](../../metadata/studies_reformat.tsv)
 - `--genome_file` : The genome file in FASTA format. The genome file should be indexed and the index file should be in the same directory as the genome file
 - `--gtf_file` : The GTF file in GFF format. The GTF file should be indexed and the index file should be in the same directory as the GTF file
 
