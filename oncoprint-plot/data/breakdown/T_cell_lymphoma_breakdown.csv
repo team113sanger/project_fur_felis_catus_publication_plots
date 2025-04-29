@@ -1,0 +1,13 @@
+,CNA Gain Only,CNA Loss Only,Mutation Only,Gain + Mutation,Loss + Mutation,Total Alterations
+RB1,0,4,0,0,0,4
+LCP1,0,4,0,0,0,4
+SERP2,0,4,0,0,0,4
+PIK3CD,4,0,0,0,0,4
+CDKN2A,0,4,0,0,0,4
+GRIN2A,0,2,2,0,0,4
+PRKDC,2,1,1,0,0,4
+RUNX1T1,2,1,1,0,0,4
+RSPO2,3,1,0,0,0,4
+EIF3E,3,1,0,0,0,4
+RAD21,3,1,0,0,0,4
+EXT1,3,1,0,0,0,4

@@ -35,7 +35,7 @@ REPO_SERIES = [
     ),
     (
         "git@gitlab.internal.sanger.ac.uk:DERMATLAS/fur/fur-oncoprints.git",
-        "456807f09f426a1cfc26133e07bcf839df5cd2d0",
+        "1.0.0",
         "oncoprint-plot",
     ),
     (
