@@ -38,6 +38,11 @@ REPO_SERIES = [
         "456807f09f426a1cfc26133e07bcf839df5cd2d0",
         "oncoprint-plot",
     ),
+    (
+        "git@gitlab.internal.sanger.ac.uk:DERMATLAS/fur/fur_penetrance_plots.git",
+        "1.0.0",
+        "penetrance-plot",
+    ),
 ]
 
 
