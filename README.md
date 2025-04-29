@@ -13,6 +13,7 @@ documentation, results and data files.
 | `cna-plot` | Copy number alterations from CNVKit segmentation data [see the README.md](cna-plot/README.md) | Python |
 | `germline-plot`   | Germline variant calling across feline samples [see the README.md](germline-plot/README.md) | R |
 | `oncoprint-plot`   | Fur CNVKit derived oncoprints across feline samples [see the README.md](oncoprint-plot/README.md) | Python |
+| `figure_1b`   | Summary comparison of mutations across cancer types [see the README.md](figure_1b/README.md) | R |
 
 ## TODO
 
@@ -23,9 +24,10 @@ documentation, results and data files.
 - [x] Add plots to `human-comparison-plot` subdirectory / repo
 - [x] Include `oncoplots` repo
     - [ ] Oncoplots is a WIP
+- [x] Code for figure 1b
 - [x] Host an `cnv_plots` repo
 - [x] Include `cnv_plots` repo via `git_subclone.py`
-- [ ] ? Add some code to handle data file duplicates
+
 
 ## Scripts
 `git_subclone.py` - Clone a git repository at a specific tag or commit hash into this repo. While `git submodules` facilitate a similar and superior workflow it is not ideal for mirroring
