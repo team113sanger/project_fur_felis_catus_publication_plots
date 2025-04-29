@@ -43,6 +43,11 @@ REPO_SERIES = [
         "1.0.0",
         "penetrance-plot",
     ),
+    (
+        "git@gitlab.internal.sanger.ac.uk:DERMATLAS/fur/fur_tmb_plots.git",
+        "1.0.3",
+        "tmb-plot",
+    ),
 ]
 
 

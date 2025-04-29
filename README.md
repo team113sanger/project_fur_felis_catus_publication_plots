@@ -15,7 +15,7 @@ documentation, results and data files.
 | `oncoprint-plot`   | Fur CNVKit derived oncoprints across feline samples [see the README.md](oncoprint-plot/README.md) | Python |
 | `figure_1b`   | Summary comparison of mutations across cancer types [see the README.md](figure_1b/README.md) | R |
 | `penetrance-plot` | Visualizing genome-wide DNA copy number alteration penetrance [see the README.md](penetrance-plot/README.md) | Python |
-
+| `tmb-plot` | Tumour mutational burden across feline samples [see the README.md](tmb-plot/README.md) | R |
 
 ## TODO
 
@@ -30,6 +30,7 @@ documentation, results and data files.
 - [x] Host an `cnv_plots` repo
 - [x] Include `cnv_plots` repo via `git_subclone.py`
 - [x] Include `penetrance-plot` repo via `git_subclone.py`
+- [x] Include `tmb-plot` repo via `git_subclone.py`
 
 
 ## Scripts
