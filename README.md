@@ -1,11 +1,16 @@
-# Feline Fur Plots
+# The domestic cat oncogenome - individual analysis scripts
 
-A collection of code corresponding to different publication plots.
+This repository serves as sub-collection of individual analysis scripts & processes that could not
+be classified in the same way as the parent repository [domestic-cat-oncogenome (github)](https://github.com/team113sanger/The-pan-cancer-oncogenomic-landscape-of-domestic-cats-reveals-shared-alterations-with-human-cancer).
+
+These analyses are part of the manuscript:
+> **_Francis, B., Ludwig, L. et al 2025 - The domestic cat oncogenome_**
+
 
 ## Code organisation
 
 Plots are organised by subdirectory, each containing R or Python code as well
-documentation, results and data files.
+documentation, dependencies, results and data files.
 
 | Subdirectory | Description | Language |
 |--------------|-------------|----------|
@@ -18,23 +23,11 @@ documentation, results and data files.
 | `tmb-plot` | Tumour mutational burden across feline samples [see the README.md](tmb-plot/README.md) | R |
 | `mutational-signature-plot` | Mutational signature categorization and analysis across feline samples [see the README.md](mutational-signature-plot/README.md) | Python |
 
-## TODO
+## Maintenance script
+`git_subclone.py` - Clone a git repository at a specific tag or commit hash into
+this repo. While `git submodules` facilitate a similar and superior workflow it
+is not ideal for mirroring repositories from the internal GitLab to Github nor
+when creating a DOI with Zenodo. This script instead creates a single git
+entity.
 
-- [x] Create a `human-comparison-plot` repo
-- [x] Include `human-comparison-plot` repo via `git_subclone.py`
-- [x] Include `germline-plot` repo via `git_subclone.py`
-- [x] Add data files to `human-comparison-plot` subdirectory / repo
-- [x] Add plots to `human-comparison-plot` subdirectory / repo
-- [x] Include `oncoplots` repo
-    - [ ] Oncoplots is a WIP
-- [x] Code for figure 1b
-- [x] Host an `cnv_plots` repo
-- [x] Include `cnv_plots` repo via `git_subclone.py`
-- [x] Include `penetrance-plot` repo via `git_subclone.py`
-- [x] Include `tmb-plot` repo via `git_subclone.py`
-- [x] Include `mutational-signature-plot` repo via `git_subclone.py`
-
-
-## Scripts
-`git_subclone.py` - Clone a git repository at a specific tag or commit hash into this repo. While `git submodules` facilitate a similar and superior workflow it is not ideal for mirroring
-repositories from Gitlab to Github nor when creating a DOI with Zenodo. This script instead creates a single git entity.
+For provenance and versioning of each subdirectory, inspect the `REPO_SERIES` list inside `git_subclone.py`.
