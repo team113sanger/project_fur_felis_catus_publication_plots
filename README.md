@@ -16,6 +16,7 @@ documentation, results and data files.
 | `figure_1b`   | Summary comparison of mutations across cancer types [see the README.md](figure_1b/README.md) | R |
 | `penetrance-plot` | Visualizing genome-wide DNA copy number alteration penetrance [see the README.md](penetrance-plot/README.md) | Python |
 | `tmb-plot` | Tumour mutational burden across feline samples [see the README.md](tmb-plot/README.md) | R |
+| `mutational-signature-plot` | Mutational signature categorization and analysis across feline samples [see the README.md](mutational-signature-plot/README.md) | Python |
 
 ## TODO
 
@@ -31,6 +32,7 @@ documentation, results and data files.
 - [x] Include `cnv_plots` repo via `git_subclone.py`
 - [x] Include `penetrance-plot` repo via `git_subclone.py`
 - [x] Include `tmb-plot` repo via `git_subclone.py`
+- [x] Include `mutational-signature-plot` repo via `git_subclone.py`
 
 
 ## Scripts

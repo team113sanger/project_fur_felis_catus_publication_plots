@@ -1,0 +1,8 @@
+resources/BSgenome
+.Rprofile
+test/test*
+renv
+logs
+*.RData
+*.maf
+old

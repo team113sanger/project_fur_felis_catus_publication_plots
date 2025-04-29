@@ -48,6 +48,11 @@ REPO_SERIES = [
         "1.0.3",
         "tmb-plot",
     ),
+    (
+        "git@gitlab.internal.sanger.ac.uk:DERMATLAS/fur_mutational_signatures.git",
+        "0.9.1",
+        "mutational-signature-plot",
+    ),
 ]
 
 
